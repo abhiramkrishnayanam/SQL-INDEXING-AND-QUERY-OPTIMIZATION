@@ -38,9 +38,7 @@ This repository contains a PowerPoint presentation titled **"Indexing and Query 
 
 ## File
 
-- **[Indexing_and_Query_Optimization_SQL_Presentation.pptx](./Indexing_and_Query_Optimization_SQL_Presentation.pptx)**
+- **[Indexing_and_Query_Optimization_SQL_Presentation.pptx]**
 
-## Author
 
-Created by ChatGPT for SQL learners and professionals aiming to optimize their database query performance.
-
+[Indexing_and_Query_Optimization_SQL_Presentation (1).pptx](https://github.com/user-attachments/files/17682913/Indexing_and_Query_Optimization_SQL_Presentation.1.pptx)
